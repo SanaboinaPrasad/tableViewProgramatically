@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "1146b5fc2d1a142e4858421cb1a8fb54"
+build_time: [1541575240, 424266000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/TableViewProgramtically/TableViewProgramtically/ViewController.swift": [1541575240, 0]
+  "/Users/sriramprasad/Dev/rough/TableViewProgramtically/TableViewProgramtically/AppDelegate.swift": [1541575162, 0]
